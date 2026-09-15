@@ -85,6 +85,3 @@ caracteres — o login é simulado e não valida contra um backend real.
 Todos os dados de produtos vêm da API pública e gratuita [DummyJSON](https://dummyjson.com/docs):
 - Listagem por categoria: `GET https://dummyjson.com/products/category/{categoria}`
 - Detalhe do produto: `GET https://dummyjson.com/products/{id}`
-
-## Prints das telas
-> Adicionar aqui os prints do app em funcionamento (Login, Listagem, Detalhes) antes do envio final.
